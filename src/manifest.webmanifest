@@ -1,6 +1,6 @@
 {
-  "name": "baby-buddy",
-  "short_name": "baby-buddy",
+  "name": "BabyBuddy",
+  "short_name": "BabyBuddy",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
